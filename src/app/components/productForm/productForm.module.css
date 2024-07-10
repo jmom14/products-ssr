@@ -1,0 +1,13 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    gap: 30px;
+}
+
+.img {
+    width: 200px;
+    height: auto;
+    object-fit: cover;
+    margin: auto;
+}
